@@ -10,7 +10,7 @@
     <!-- Tombol Sign-In -->
     <div id="g_id_onload"
          data-client_id="http://956406460435-lqdlf5ups3i2m502f3qpcod4t08bhvrs.apps.googleusercontent.com"
-         data-login_uri="http://localhost:3000"  
+         data-login_uri="https://ssyouchieee-source.github.io/makan/"  
          data-auto_prompt="false">
     </div>
 
